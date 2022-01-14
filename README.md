@@ -67,7 +67,7 @@ Our team tried hard to learn numbers of modules and packages in the class and on
 * `PyQt5` is used to construct all our GUI.
 * We choose the `QTabWidget` to construct tab interface to make four subwindows in the main window of application.
 
-#
+# **Others**
 ## **Project Setup**
 ### **Package**
 ```powershell
