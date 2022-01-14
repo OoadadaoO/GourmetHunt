@@ -15,8 +15,8 @@ class MainWindow(QWidget):
     def initUI(self):
         self.setWindowTitle('GourmetHunter')
         self.setWindowIcon(QIcon('./GUI/image/windowIconWhite.png'))
-        self.resize(800,700)
-        self.setFixedSize(800, 700)
+        self.resize(800,800)
+        self.setFixedSize(800, 800)
         self.mainLayout = QVBoxLayout()
         self.userLayout = QGridLayout()
         self.tabLayout = QVBoxLayout()
