@@ -6,6 +6,7 @@ Gourmet Hunter is a mutifunctional application coded in Python. It is designed t
 Our team tried hard to learn numbers of modules and packages in the class and on the Internet to implement various function setup in the codes.
 
 # **What It Is and How To Use**
+## **Open the `GourmetHunter.py`**
 ## **愛食記獵人**
 > Crawl articles on the blog [Ifoodie](https://ifoodie.tw/).
 
@@ -68,6 +69,7 @@ Our team tried hard to learn numbers of modules and packages in the class and on
 
 #
 ## **Project Setup**
+### **Package**
 ```powershell
 pip install pyqt5
 pip install bs4
@@ -83,6 +85,9 @@ or download the [requirements.txt](./requirements.txt)
 ```powershell
 pip -r requirements.txt
 ```
+### **ChromeDriver**
+The program needs different version of ChromeDriver under different user system, and our project sets `ChromeDriver97.0.4692.71` as default. Check your Chrome version on [Chrome setting](chrome://settings/help). If needed, downloed ChromeDriver [here](https://chromedriver.chromium.org/downloads) and store the .exe under root directory.
+
 ## **Future Scope**
 * Improve system fluency.
 * Import image identification to improve accuracyof output.
