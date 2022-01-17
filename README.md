@@ -82,7 +82,7 @@ pip install selenium
 ```
 or download the [requirements.txt](./requirements.txt)
 ```powershell
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 ### **ChromeDriver**
 The program needs different version of ChromeDriver under different user system, and our project sets `ChromeDriver97.0.4692.71` as default. Check your Chrome version on [Chrome setting](chrome://settings/help). If needed, download ChromeDriver [here](https://chromedriver.chromium.org/downloads) and store the .exe under root directory.
