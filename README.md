@@ -73,7 +73,6 @@ Our team tried hard to learn numbers of modules and packages in the class and on
 ```powershell
 pip install pyqt5
 pip install bs4
-pip install beautifulsoup4
 pip install googlemaps
 pip install numpy
 pip install opencv-python
